@@ -1,5 +1,5 @@
 # EVS on Entropy0 
-## Collective randomness as API data provided by P2P chain for computed life systems (CLS) with variable value token reward insentivization and blockchain for entropy strength as global entropy summary as data stream accesible as api.
+## Collective randomness as API data provided by P2P chain for computed life systems (CLS) with variable value token reward for global entropy value strengthining.
 EVS is a decentralized platform that leverages global consensus entropy for various applications, including scientific research, life simulations, and data analysis. Our platform provides developers with tools and resources to harness entropy data and build innovative solutions.
 
 ## Technical Guide
