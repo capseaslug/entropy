@@ -1,17 +1,10 @@
 # Entropy0
-### Table of Contents
-
-- [Introduction](#introduction)
-- [Technical Guide](#technical-guide)
-  - [Overview](#overview)
-  - [Purpose](#purpose)
-  - [Goals](#goals)
-
 ---
 
 EVS is a decentralized platform that leverages global consensus entropy for various applications, including scientific research, life simulations, and data analysis. Our platform provides developers with tools and resources to harness entropy data and build innovative solutions.
 
 ## Technical Guide
+### Table of Contents
 
 ### [Entropy0 Overview](#0-entropy0-overview)
 Overview of the Entropy0 project and its unique features, including a decentralized platform, global consensus entropy, developer-friendly features, and the tokenized ecosystem.
