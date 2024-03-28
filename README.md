@@ -2,7 +2,6 @@
 
 - [Introduction](#introduction)
 - [Technical Guide](#technical-guide)
-- [1. Introduction](#1-introduction)
   - [Overview](#overview)
   - [Purpose](#purpose)
   - [Goals](#goals)
