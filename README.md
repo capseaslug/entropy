@@ -13,7 +13,7 @@ EVS is a decentralized platform that leverages global consensus entropy for vari
 
 ## Technical Guide
 
-### [0. Entropy0 Overview](#0-entropy0-overview)
+### [Entropy0 Overview](#0-entropy0-overview)
 Overview of the Entropy0 project and its unique features, including a decentralized platform, global consensus entropy, developer-friendly features, and the tokenized ecosystem.
    - [Unique Features](#unique-features)
    - [Tokenomics](#tokenomics)
