@@ -1,10 +1,45 @@
 # Entropy0 (Version 0) Table of Contents
+# Summary
+Welcome to Entropy Value Store (EVS)! These Terms of Service ("Terms") govern your access to and use of the EVS platform, including its website, services, and products. By accessing or using EVS, you agree to comply with these Terms.
 
+## Overview
+EVS is a decentralized platform that leverages global consensus entropy for various applications, including scientific research, life simulations, and data analysis. Our platform provides developers with tools and resources to harness entropy data and build innovative solutions.
+
+## Unique Features
+- Decentralized Platform: EVS operates on a decentralized network, ensuring resilience and security.
+- Global Consensus Entropy: EVS aggregates entropy data from across the network to provide a global perspective on randomness.
+- Developer-Friendly: EVS offers APIs and SDKs for developers to integrate entropy data into their applications easily.
+- Tokenized Ecosystem: The EVS ecosystem is powered by tokens that incentivize network participation and governance.
+
+## Tokenomics
+- Token Distribution: Tokens are distributed among network participants, developers, and early adopters.
+- Token Value Determination: Token value is influenced by supply and demand dynamics, network activity, and market forces.
+- Reward Mechanisms: Participants are rewarded with tokens for contributing to network security, governance, and development.
+
+## Product Overview for Developers
+Developers can leverage the EVS platform for various applications, including:
+- Scientific Research: Use entropy data for statistical analysis, pattern recognition, and modeling.
+- Life Simulations: Integrate entropy data into simulations to create realistic and dynamic environments.
+- Data Analysis: Analyze entropy patterns to gain insights into complex systems and phenomena.
+
+## Entropy API
+The Entropy API provides developers with access to entropy data from the EVS network. Developers can use the API to retrieve entropy values, perform statistical analysis, and incorporate entropy data into their applications.
+
+## Conclusion
+By using EVS, developers can tap into the power of global consensus entropy to build innovative solutions and gain insights into the randomness of the world around us. We invite you to explore the possibilities of EVS and join us in shaping the future of decentralized entropy-based applications.
+## [0. Entropy0 Overview](#11-entropy0-overview)
+   - [Initial Summary and Overview](#initial-summary-and-overview)
+   - [Unique Features](#unique-features)
+   - [Tokenomics](#tokenomics)
+   - [Product Overview for Developers](#product-overview-for-developers)
+   - [Entropy API](#entropy-api)
+   - [Developing Science and Life Simulations](#developing-science-and-life-simulations)
+   - [Global Consensus Entropy](#global-consensus-entropy)p
 ## [1. Introduction](#1-introduction)
    - [Overview](#overview)
    - [Purpose](#purpose)
    - [Goals](#goals)
-
+u
 ## [2. System Architecture](#2-system-architecture)
    - [Components](#components)
    - [Interactions](#interactions)
@@ -65,39 +100,5 @@
    - [Account Handling](#account-handling)
    - [Routing of Requests](#routing-of-requests)
 
-## [11. Entropy0 Terms of Service (TOS)](#11-entropy0-terms-of-service)
-   - [Initial Summary and Overview](#initial-summary-and-overview)
-   - [Unique Features](#unique-features)
-   - [Tokenomics](#tokenomics)
-   - [Product Overview for Developers](#product-overview-for-developers)
-   - [Entropy API](#entropy-api)
-   - [Developing Science and Life Simulations](#developing-science-and-life-simulations)
-   - [Global Consensus Entropy](#global-consensus-entropy)p
-## Summary
-Welcome to Entropy Value Store (EVS)! These Terms of Service ("Terms") govern your access to and use of the EVS platform, including its website, services, and products. By accessing or using EVS, you agree to comply with these Terms.
 
-## Overview
-EVS is a decentralized platform that leverages global consensus entropy for various applications, including scientific research, life simulations, and data analysis. Our platform provides developers with tools and resources to harness entropy data and build innovative solutions.
-
-## Unique Features
-- Decentralized Platform: EVS operates on a decentralized network, ensuring resilience and security.
-- Global Consensus Entropy: EVS aggregates entropy data from across the network to provide a global perspective on randomness.
-- Developer-Friendly: EVS offers APIs and SDKs for developers to integrate entropy data into their applications easily.
-- Tokenized Ecosystem: The EVS ecosystem is powered by tokens that incentivize network participation and governance.
-
-## Tokenomics
-- Token Distribution: Tokens are distributed among network participants, developers, and early adopters.
-- Token Value Determination: Token value is influenced by supply and demand dynamics, network activity, and market forces.
-- Reward Mechanisms: Participants are rewarded with tokens for contributing to network security, governance, and development.
-
-## Product Overview for Developers
-Developers can leverage the EVS platform for various applications, including:
-- Scientific Research: Use entropy data for statistical analysis, pattern recognition, and modeling.
-- Life Simulations: Integrate entropy data into simulations to create realistic and dynamic environments.
-- Data Analysis: Analyze entropy patterns to gain insights into complex systems and phenomena.
-
-## Entropy API
-The Entropy API provides developers with access to entropy data from the EVS network. Developers can use the API to retrieve entropy values, perform statistical analysis, and incorporate entropy data into their applications.
-
-## Conclusion
-By using EVS, developers can tap into the power of global consensus entropy to build innovative solutions and gain insights into the randomness of the world around us. We invite you to explore the possibilities of EVS and join us in shaping the future of decentralized entropy-based applications.
+#
