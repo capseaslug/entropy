@@ -1,4 +1,5 @@
-# Entropy0 (Version 0) Table of Contents
+# Entropy0 (Version 0)
+###Table of Contents
 
 - [Introduction](#introduction)
 - [Technical Guide](#technical-guide)
