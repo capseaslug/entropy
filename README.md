@@ -23,93 +23,89 @@ The Entropy API provides developers with access to entropy data from the EVS net
 
 ## Conclusion
 
-By using EVS, developers can tap into the power of global consensus entropy to build innovative solutions and gain insights into the randomness of the world around us. We invite you to explore the possibilities of EVS and join us in shaping the future of decentralized entropy-based applications.
+By using EVS, developers can tap into the power of global consensus entropy to build innovative solutions and gain insights into the randomness of the world around us. We invite you to explore the possibilities of EVS and join us in shaping the future of decentralized entropy-based # Entropy0 (Version 0) Table of Contents
+# Entropy0 (Version 0) Table of Contents
+
+## [Overview](#overview)
+## [Unique Features](#unique-features)
+## [Tokenomics](#tokenomics)
+## [Product Overview for Developers](#product-overview-for-developers)
+## [Entropy API](#entropy-api)
+## [Conclusion](#conclusion)
 
 ---
 
-## 0. Entropy0 Overview
+## [0. Entropy0 Overview](#0-entropy0-overview)
+	- [Initial Summary and Overview](#initial-summary-and-overview)
+	- [Unique Features](#unique-features)
+	- [Tokenomics](#tokenomics)
+	- [Product Overview for Developers](#product-overview-for-developers)
+	- [Entropy API](#entropy-api)
+	- [Developing Science and Life Simulations](#developing-science-and-life-simulations)
+	- [Global Consensus Entropy](#global-consensus-entropy)
 
-- Initial Summary and Overview
-- Unique Features
-- Tokenomics
-- Product Overview for Developers
-- Entropy API
-- Developing Science and Life Simulations
-- Global Consensus Entropy
+## [1. Introduction](#1-introduction)
+	- [Overview](#overview)
+	- [Purpose](#purpose)
+	- [Goals](#goals)
 
-## 1. Introduction
+## [2. System Architecture](#2-system-architecture)
+	- [Components](#components)
+	- [Interactions](#interactions)
+	- [Data Flow](#data-flow)
 
-- Overview
-- Purpose
-- Goals
+## [3. Tokenomics and Economics](#3-tokenomics-and-economics)
+	- [Token Distribution](#token-distribution)
+	- [Token Value Determination](#token-value-determination)
+	- [Reward Mechanisms](#reward-mechanisms)
 
-## 2. System Architecture
+## [4. Network Features](#4-network-features)
+	- [Decentralized Consensus](#decentralized-consensus)
+	- [Peer-to-Peer Communication](#peer-to-peer-communication)
+	- [Blockchain Protocol](#blockchain-protocol)
+	- [Data Storage and Retrieval](#data-storage-and-retrieval)
+	- [Network Security](#network-security)
+	- [Scalability and Performance](#scalability-and-performance)
+	- [Network Governance](#network-governance)
+	- [Interoperability and Integration](#interoperability-and-integration)
 
-- Components
-- Interactions
-- Data Flow
+## [5. Client Features](#5-client-features)
+	- [Overview](#overview)
+	- [User Interface](#user-interface)
+	- [Functionality](#functionality)
+	- [Use Cases](#use-cases)
 
-## 3. Tokenomics and Economics
+## [6. Network Specification](#6-network-specification)
+	- [Decentralized Consensus](#decentralized-consensus)
+	- [Peer-to-Peer Communication](#peer-to-peer-communication)
+	- [Blockchain Protocol](#blockchain-protocol)
+	- [Data Storage and Retrieval](#data-storage-and-retrieval)
+	- [Network Security](#network-security)
+	- [Scalability and Performance](#scalability-and-performance)
+	- [Network Governance](#network-governance)
+	- [Interoperability and Integration](#interoperability-and-integration)
 
-- Token Distribution
-- Token Value Determination
-- Reward Mechanisms
+## [7. Tokenomics and Economics Specification](#7-tokenomics-and-economics-specification)
+	- [Token Distribution](#token-distribution)
+	- [Token Value Determination](#token-value-determination)
+	- [Reward Mechanisms](#reward-mechanisms)
 
-## 4. Network Features
+## [8. Network Features Specification](#8-network-features-specification)
+	- [Decentralized Consensus](#decentralized-consensus)
+	- [Peer-to-Peer Communication](#peer-to-peer-communication)
+	- [Blockchain Protocol](#blockchain-protocol)
+	- [Data Storage and Retrieval](#data-storage-and-retrieval)
+	- [Network Security](#network-security)
+	- [Scalability and Performance](#scalability-and-performance)
+	- [Network Governance](#network-governance)
+	- [Interoperability and Integration](#interoperability-and-integration)
 
-- Decentralized Consensus
-- Peer-to-Peer Communication
-- Blockchain Protocol
-- Data Storage and Retrieval
-- Network Security
-- Scalability and Performance
-- Network Governance
-- Interoperability and Integration
+## [9. Client Features Specification](#9-client-features-specification)
+	- [User Interface](#user-interface)
+	- [Functionality](#functionality)
+	- [Use Cases](#use-cases)
 
-## 5. Client Features
-
-- Overview
-- User Interface
-- Functionality
-- Use Cases
-
-## 6. Network Specification
-
-- Decentralized Consensus
-- Peer-to-Peer Communication
-- Blockchain Protocol
-- Data Storage and Retrieval
-- Network Security
-- Scalability and Performance
-- Network Governance
-- Interoperability and Integration
-
-## 7. Tokenomics and Economics Specification
-
-- Token Distribution
-- Token Value Determination
-- Reward Mechanisms
-
-## 8. Network Features Specification
-
-- Decentralized Consensus
-- Peer-to-Peer Communication
-- Blockchain Protocol
-- Data Storage and Retrieval
-- Network Security
-- Scalability and Performance
-- Network Governance
-- Interoperability and Integration
-
-## 9. Client Features Specification
-
-- User Interface
-- Functionality
-- Use Cases
-
-## 10. Node Features
-
-- Data Chunking and Distribution
-- Account Handling
-- Routing of Requests
-This GitHub-formatted whitepaper outlines the structure, features, and specifications of Entropy0 (Version 0), providing developers and users with a comprehensive overview of the platform.
+## [10. Node Features](#10-node-features)
+	- [Data Chunking and Distribution](#data-chunking-and-distribution)
+	- [Account Handling](#account-handling)
+	- [Routing of Requests](#routing-of-requests)
