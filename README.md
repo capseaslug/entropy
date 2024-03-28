@@ -1,4 +1,4 @@
-# Entropy Value Store (EVS) Master Handoff Document
+# Entropy Value Store (EVS) 
 
 ## Table of Contents:
 
