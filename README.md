@@ -1,5 +1,5 @@
 # EVS on Entropy0 
-## Collective randomness for computed life systems.
+## Collective randomness for computed life systems (CLS)
 EVS is a decentralized platform that leverages global consensus entropy for various applications, including scientific research, life simulations, and data analysis. Our platform provides developers with tools and resources to harness entropy data and build innovative solutions.
 
 ## Technical Guide
