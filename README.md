@@ -1,4 +1,4 @@
-# EVS on Entropy0 Network
+# EVS on Entropy0 
 ## Cryptographic blockchain and token powered by the randomness of our shared reality and the systems providing 
 EVS is a decentralized platform that leverages global consensus entropy for various applications, including scientific research, life simulations, and data analysis. Our platform provides developers with tools and resources to harness entropy data and build innovative solutions.
 
