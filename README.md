@@ -60,7 +60,19 @@
    - [User Interface](#user-interface-1)
    - [Functionality](#functionality-1)
    - [Use Cases](#use-cases-1)
+## [10. Node Features](#10-node-features)
+   - [Data Chunking and Distribution](#data-chunking-and-distribution)
+   - [Account Handling](#account-handling)
+   - [Routing of Requests](#routing-of-requests)
 
+## [11. Entropy0 Terms of Service (TOS)](#11-entropy0-terms-of-service)
+   - [Initial Summary and Overview](#initial-summary-and-overview)
+   - [Unique Features](#unique-features)
+   - [Tokenomics](#tokenomics)
+   - [Product Overview for Developers](#product-overview-for-developers)
+   - [Entropy API](#entropy-api)
+   - [Developing Science and Life Simulations](#developing-science-and-life-simulations)
+   - [Global Consensus Entropy](#global-consensus-entropy)p
 ## Summary
 Welcome to Entropy Value Store (EVS)! These Terms of Service ("Terms") govern your access to and use of the EVS platform, including its website, services, and products. By accessing or using EVS, you agree to comply with these Terms.
 
