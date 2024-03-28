@@ -1,4 +1,4 @@
-# Entropy0 (Version 0)
+# Entropy0
 ### Table of Contents
 
 - [Introduction](#introduction)
