@@ -1,6 +1,4 @@
 # Entropy0 (Version 0) Table of Contents
-# Summary
-Welcome to Entropy Value Store (EVS)! These Terms of Service ("Terms") govern your access to and use of the EVS platform, including its website, services, and products. By accessing or using EVS, you agree to comply with these Terms.
 
 ## Overview
 EVS is a decentralized platform that leverages global consensus entropy for various applications, including scientific research, life simulations, and data analysis. Our platform provides developers with tools and resources to harness entropy data and build innovative solutions.
